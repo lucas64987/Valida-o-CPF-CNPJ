@@ -1,0 +1,11 @@
+C:\Users\lucas.rrosendo\source\repos\appCNPJe cpf\appCNPJe cpf\bin\Debug\appCNPJe cpf.exe.config
+C:\Users\lucas.rrosendo\source\repos\appCNPJe cpf\appCNPJe cpf\bin\Debug\appCNPJe cpf.exe
+C:\Users\lucas.rrosendo\source\repos\appCNPJe cpf\appCNPJe cpf\bin\Debug\appCNPJe cpf.pdb
+C:\Users\lucas.rrosendo\source\repos\appCNPJe cpf\appCNPJe cpf\obj\Debug\appCNPJe cpf.csproj.AssemblyReference.cache
+C:\Users\lucas.rrosendo\source\repos\appCNPJe cpf\appCNPJe cpf\obj\Debug\appCNPJe cpf.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas.rrosendo\source\repos\appCNPJe cpf\appCNPJe cpf\obj\Debug\appCNPJe_cpf.Form1.resources
+C:\Users\lucas.rrosendo\source\repos\appCNPJe cpf\appCNPJe cpf\obj\Debug\appCNPJe_cpf.Properties.Resources.resources
+C:\Users\lucas.rrosendo\source\repos\appCNPJe cpf\appCNPJe cpf\obj\Debug\appCNPJe cpf.csproj.GenerateResource.cache
+C:\Users\lucas.rrosendo\source\repos\appCNPJe cpf\appCNPJe cpf\obj\Debug\appCNPJe cpf.csproj.CoreCompileInputs.cache
+C:\Users\lucas.rrosendo\source\repos\appCNPJe cpf\appCNPJe cpf\obj\Debug\appCNPJe cpf.exe
+C:\Users\lucas.rrosendo\source\repos\appCNPJe cpf\appCNPJe cpf\obj\Debug\appCNPJe cpf.pdb
