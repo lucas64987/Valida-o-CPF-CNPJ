@@ -1,0 +1,5 @@
+﻿Compilação iniciada...
+1>------ Compilação iniciada: Projeto: appCNPJe cpf, Configuração: Debug Any CPU ------
+1>  appCNPJe cpf -> C:\Users\lucas.rrosendo\source\repos\appCNPJe cpf\appCNPJe cpf\bin\Debug\appCNPJe cpf.exe
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação começou em 5:00 PM e levou 00,638 segundos ==========
